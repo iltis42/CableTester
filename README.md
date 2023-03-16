@@ -1,3 +1,3 @@
 Code for the Cable tester
 
-https://github.com/iltis42/CableTester/blob/master/hardware/Selection_564.png?raw=true
+![Selection_564](https://user-images.githubusercontent.com/34288016/225686113-1a3dd1f4-3c35-441b-9736-5821e6bf716d.png)
